@@ -1,0 +1,14 @@
+{
+  "name": "mithu",
+  "version": "1.0.0",
+  "description": "included about technology",
+  "main": "firstnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
